@@ -1,2 +1,3 @@
-# QC-Devs-The-Grid-Prep
-Preliminary research, Poisson solver prototypes, and numerical integration study for the GSoC 2026 'The Grid' project
+# The Grid - GSoC 2026 Preparation
+
+This repository contains my preliminary research and coding work for the 'Implementation of a Robust Poisson Solver' project. I am focusing on Adaptive Numerical Integration and its applications in DSSC models.
